@@ -25,7 +25,7 @@ Together, these constructs form the foundation of **TRT** — a closed, self-con
 
 ## 📄 Official Paper
 
-The full peer-style research manuscript is provided in: /files/TRT_en.pdf or /files/TRT_en.docx
+The full peer-style research manuscript is provided in: /books/TRT_en.docx
 
 
 It contains:
@@ -48,7 +48,7 @@ It contains:
 
 ## 🧩 Repository Structure
 
-- /books/ → Contains the official publication (TRT_en.pdf or TRT_en.docx)
+- /books/ → Contains the official publication (TRT_en.docx)
 - /graphics/ → Diagrams and visualizations (complexity scales, growth maps)
 - /code/ → Prototype implementations (Python, symbolic computation)
 - /README.md → This overview file
