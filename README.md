@@ -25,7 +25,7 @@ Together, these constructs form the foundation of **TRT** — a closed, self-con
 
 ## 📄 Official Paper
 
-The full peer-style research manuscript is provided in: /files/TRT.pdf
+The full peer-style research manuscript is provided in: /files/TRT_en.pdf or /files/TRT_en.docx
 
 
 It contains:
@@ -48,8 +48,7 @@ It contains:
 
 ## 🧩 Repository Structure
 
-- /files/ → Contains the official publication (TRT.pdf)
-- /notes/ → Supplementary derivations, examples, and proofs
+- /books/ → Contains the official publication (TRT_en.pdf or TRT_en.docx)
 - /graphics/ → Diagrams and visualizations (complexity scales, growth maps)
 - /code/ → Prototype implementations (Python, symbolic computation)
 - /README.md → This overview file
@@ -63,7 +62,7 @@ If you reference this work, please cite as:
 > Art. *The Theory of Trans-Recursive Growth: Hierarchical Computable Complexity and the TRANSCEND Framework*.  
 > Version 1.0, 2025. GitHub repository: [https://github.com/homoastricus/transrecursivegrowth](https://github.com/homoastricus/transrecursivegrowth)
 
-*(A Zenodo DOI link can be added upon first release.)*
+*(A Zenodo DOI link will be added upon first release.)*
 
 ---
 
