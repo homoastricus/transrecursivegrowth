@@ -6,7 +6,7 @@
 
 ## 📘 Overview
 
-This repository presents the **Theory of Trans-Recursive Growth (TRT)** —  
+This repository presents the mathematical **Theory of Trans-Recursive Growth (TRT)** —  
 a new mathematical framework unifying hierarchical computable complexity and trans-recursive scaling of growth.
 
 At its core, the theory introduces two key constructs:
